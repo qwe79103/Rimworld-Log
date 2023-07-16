@@ -1,0 +1,811 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4090 (ID=0x2684)
+    Vendor:   
+    VRAM:     24156 MB
+    Driver:   31.0.15.3640
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.047 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.477200 ms
+Command line arguments: -savedatafolder=C:\Users\KHUser\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.4.3704 rev896
+Save data folder overridden to C:\Users\KHUser\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Parsed 2287142613 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Vanilla Races Expanded - Waster中文汉化包 dependency (vanillaracesexpanded.waster) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Vanilla Races Expanded - Waster中文汉化包 dependency (OskarPotocki.VanillaFactionsExpanded.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Vanilla Races Expanded - Waster中文汉化包 dependency (brrainz.harmony) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 2287142613 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCF33050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BF91452E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCE4D010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD016860.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCDFECE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BF913C670.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD062020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCE57820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD09A850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD09F860.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD0A5470.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD0A9680.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD0F96B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD129AC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD12B4D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD12ECE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD18B010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD1B5C30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD1B7A40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD1B9050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD1BA660.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD1CDE70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD1D7C80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD317010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD319C20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD364E30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD37BA50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD37D260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD37E470.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD39A880.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD40E010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD428A40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD452050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD455460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD457A70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD58A010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD5A7420.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD67E850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD680460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD688E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD792C00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD798210.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD7A6C30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD7BF240.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD7CE060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD83A540.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD840F60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD84FD70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BCEBA4D30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD85AFA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD85D5B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD8784E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCD94100.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BF91466F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD87C8F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD87E700.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD96DB30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD97B740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD983550.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD9EC010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD9EE420.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD9F5840.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFDA15850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFD9BA430.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFDA1DA70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFDA26080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEA17AE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEA3B700.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEA41910.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEA52740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEA9AB70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEA9C780.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEAA5790.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEACC8D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEAE38D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEB064E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEB1A100.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEBE9180.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEBF3590.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEBF97B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCD8F0E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFCD82890.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEC136F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFECFAB10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED36740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED3E150.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED40760.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED47580.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED4D190.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BF913EE90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED4FFA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED6C1C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED709D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED82BE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED93A00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED95410.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFED96C20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEDD5960.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEDDBD70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEDE6D90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEDF0BA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEDF29B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEDF4FC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE039D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE097F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE13210.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE30A10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE36420.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE45230.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE59A40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE60250.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BCEBB0D60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE66A70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE6B880.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE72090.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE8A8C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEE8CAD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEF726F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEBE2260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFEF77110.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFF09C6E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016BFF39A080.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016A40449ED0.dll
+[HugsLib] early-initializing AllowTool
+Combat Extended :: Checking SRTS Expanded
+Checking Multiplayer Compat
+Combat Extended :: Loading D:\SteamLibrary\steamapps\workshop\content\294100\2890901044\AssembliesCompat\ArtilleryCompat.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C0211C010.dll
+Vanilla Psycasts Expanded loaded: False
+Combat Extended :: Checking Better Turrets
+Combat Extended :: Checking Vehicle Framework
+Combat Extended :: Checking Misc Turrets
+Combat Extended :: Harmony_GenRadial_RadialPatternCount :: Info: Post GenRadial patch maximum radius: 119.4194
+Combat Extended :: initialized
+[VanillaAchievementsExpanded] version 1.4.8315
+Dubs Mint Minimap 1.3.787
+Dubs Skylight 1.5.2110
+DubsMintMenus v1.3.995
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C024ED020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C0242A010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C0265C010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C0268E820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C0274C050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C02623020.dll
+[Interaction Bubbles v2.5] Initialized
+Project RimFactory Core 1.0.0.0 - Harmony patches successful
+Project Rimfactory - added Support for Fridge DSU Power using Simple Utilities: Fridge
+Loaded What's That Mod.
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C0489A010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C03EC6020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C04B5A280.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C04935CB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016C04B12010.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+StartUpStarted at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+<GetActions>b__3 at offset 0 in file:line:column <filename unknown>:0:0
+.ctor at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+DoInvoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstanceImpl at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
+CreateModClasses at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
+DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
+<Start>b__6_1 at offset 0 in file:line:column <filename unknown>:0:0
+RunEventFromAnotherThread at offset 0 in file:line:column <filename unknown>:0:0
+<UpdateCurrentAsynchronousEvent>b__27_0 at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart_Context at offset 0 in file:line:column <filename unknown>:0:0
+RunInternal at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart at offset 0 in file:line:column <filename unknown>:0:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Mod list changed! Deleting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache not found or got purged!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3704:4/19/2023 12:00:00 AM:1.4.3704 rev896
+b.3704:4/19/2023 12:00:00 AM:1.4.3704 rev896
+b.3704:4/19/2023 12:00:00 AM:1.4.3704 rev896
+b.3704:4/19/2023 12:00:00 AM:1.4.3704 rev896
+[Altered Carbon: Ultratech Unleashed] version 4.3-ortega-rev4
+[Reinforced Mechanoid 2] version 0.9b3
+[ReGrowth: Core] version 3.4.7-Artemis-rev6
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>2.382</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.649</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.001</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Deep Storage: activated compatibility patch for Combat Extended
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>13.24</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.249</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3704:4/19/2023 12:00:00 AM:1.4.3704 rev896
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>0 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>6.028</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=2981 width=30 height=30 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=2981 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=14605 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=14605 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=14623 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=14623 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.249</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.249</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Traditional Chinese has 4486 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Reinforced Mechanoid 2 contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Base Generation Expanded contains 11 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Outposts Expanded contains 3 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Outposts Expanded: Additional Outposts contains 2 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Update: stable(ish) 1.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, VFEM_HeavyHopper, VREA_NeutroTap, VREA_NeutroDrain, VFES_AmmoCrate, RimNauts2_DeliveryCannon, Shelf_WeaponRack, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain, VNPE_NutrientPasteFeeder, VRE_HemogenTap, VRE_HemogenDrain, PRF_IOPort_IFridge, PRFCoolDSU into Deep Storage
+Apparel Apparel_SmokepopBelt has CE AmmoDef but with no AmmoSetDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Apparel Apparel_FirefoampopPack has CE AmmoDef but with no AmmoSetDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+擲彈裝甲 switching to 榴彈
+Apparel Apparel_ArmorCataphractPhoenix has CE AmmoDef but with no AmmoSetDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Apparel Apparel_PackTox has CE AmmoDef but with no AmmoSetDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE successfully patched 5 animals.
+Animal Defs autopatched:BI_Queen
+RG_Hemolope
+RG_Moa
+RG_Neutrolope
+RG_SabertoothTiger
+
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.4.3607.2 initialized
+[TrueTerrainColors v1.12.6] Loaded cached true colors for 391 terrain defs from file.
+[KanbanStockpile] Detected LWM Deep Storage is loaded!
+[KanbanStockpile] Detected Mehni or Mlie PickUpAndHaul is loaded!
+[KanbanStockpile] Patching Mehni/Mlie PickUpAndHaul mod!
+[Map Designer for 1.3] Initializing.... 
+[Map Designer] Finding biomes...
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: fertility: 180 | Water 100
+Universum (v1.7.2) has successfully loaded.
+        10 utilities found
+        19 biomes found, 14 configurations found
+        391 terrains found, 3 configurations found
+        604 genes found, 0 configurations found
+RimNauts 2（v4.19.0）已成功加載。
+        已找到19個defs
+        AssetBundle加載完成，已找到windows個platform
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+[SRTS Expanded] Compatibility with Save our Ship 2. SoS2 compatibility will happen soon(ish) (or not :)). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTSExpanded] Combat Extended active.
+ChangeResearchSpeed Harmony Patches:
+    Game.InitNewGame
+    Root.Shutdown
+    ResearchManager.ReapplyAllMods
+GAGARIN: <color=green>StartUpFinished called!</color>
+[Geological Landforms v1.6.5] Found landform data in the following mods: Geological Landforms
+[Geological Landforms v1.6.5] Loaded 36 landforms of which 0 are edited and 0 are custom.
+MVCF successfully applied 32 patches
+[Krkr.RocketMan] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[OskarPotocki.VFECore] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+Combat Extended :: Ammo injected
+Combat Extended :: Bounds pre-generated
+Combat Extended :: Checking SRTS Expanded
+Checking Multiplayer Compat
+Vanilla Psycasts Expanded loaded: False
+Combat Extended :: Checking Better Turrets
+Combat Extended :: Checking Vehicle Framework
+Combat Extended :: Checking Misc Turrets
+  --> [What's That Mod] Took 0.05 seconds to scan all patches. <--
+What's That Mod: Wrote to 7262 mod descriptions, 210 patched defs resolved.
+What's That Mod took 91 milliseconds to generate all def descriptions.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 7)
+UnloadTime: 0.223800 ms
+
+Unloading 1878 unused Assets to reduce memory usage. Loaded Objects now: 43437.
+Total: 436.922600 ms (FindLiveObjects: 1.299400 ms CreateObjectMapping: 0.665100 ms MarkObjects: 433.759600 ms  DeleteObjects: 1.198200 ms)
+
+Loading game from file 夏烏瑪王國 (無悔模式) with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - vanillaexpanded.backgrounds
+  - UnlimitedHugs.HugsLib
+  - Owlchemist.SmartFarming
+  - pzqaks.SmartFarming.zh
+  - CiXwOw.advancedmoisturepump
+  - UnlimitedHugs.AllowTool
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - hlx.UltratechAlteredCarbon
+  - mitsuha.UltratechAlteredCarbon.zh
+  - LWM.DeepStorage
+  - OskarPotocki.VFE.Mechanoid
+  - hlx.ReinforcedMechanoids2
+  - VanillaExpanded.VTEXE
+  - CETeam.CombatExtended
+  - Owlchemist.GiddyUp
+  - Dylan.AnimalGear
+  - Owlchemist.AnimalGear.Equipment
+  - RWZH.ChinesePack.VanillaFactionsExpandedCore
+  - ZH.OwlchemistAnimalGearEquipment
+  - automatic.autolinks
+  - Mlie.BadCanBeGood
+  - kikohi.BetterGroundPenetratingScanner
+  - machine.betterinfestations
+  - RWZH.leafzxg.betterinfestations
+  - CrashM.ColorCodedMoodBar.11
+  - DakkPasserida.AnimaReplant
+  - DakkPasserida.GauranlenReplant
+  - VanillaExpanded.VCEF
+  - vanillaracesexpanded.android
+  - ReGrowth.BOTR.Core
+  - ReGrowth.BOTR.AspenForest
+  - VanillaExpanded.VPlantsE
+  - IH.Clean.Textures
+  - kikohi.ColoredDeepResources
+  - CETeam.CombatExtendedArmors
+  - CETeam.CombatExtendedArmory
+  - CETeam.CombatExtendedGuns
+  - CETeam.CombatExtendedMelee
+  - Lemontea.CombatExtendedzh
+  - Spirit.CombatExtended.zht
+  - avilmask.CommonSense
+  - divineDerivative.tilledsoil
+  - Mlie.ConvertThenRecruit
+  - torann.CraftablePlasteel
+  - Owlchemist.DoorClearance
+  - telardo.DragSelect
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsSkylights
+  - Dubwise.DubsMintMenus
+  - RWZH.ChinesePack.DubsMintMenus
+  - Fluffy.FollowMe
+  - VanillaExpanded.VFESecurity
+  - Aoba.Fortress.Industrial
+  - Aoba.Fortress.Industrial.NuclearDawn
+  - m00nl1ght.GeologicalLandforms
+  - ZH.m00nl1ght.GeologicalLandforms
+  - Daniledman.HardworkingAnimals
+  - RWZH.ChinesePack.HugsLib
+  - Jaxe.Bubbles
+  - ubergarm.kanbanstockpile
+  - RWZH.ChinesePack.DeepStorage
+  - m00nl1ght.MapPreview
+  - zylle.MapDesigner
+  - RWZH.ChinesePack.MapDesigner
+  - Mlie.MealRadius
+  - sindre0830.universum
+  - sindre0830.rimnauts2
+  - HRG.ExpandAsteroid.rimnauts2
+  - Mehni.PickUpAndHaul
+  - Scherub.PlanningExtended
+  - Owlchemist.PowerTab
+  - spdskatr.projectrimfactory
+  - RWZH.leafzxg.projectrimfactory
+  - longwater.smartstockpilecreation
+  - ReGrowth.BOTR.TropicalExpansion
+  - ReGrowth.BOTR.DesertExpansion
+  - ReGrowth.BOTR.BorealForestExpansion
+  - ReGrowth.BOTR.ExtinctAnimalsPack
+  - ReGrowth.BOTR.SwampExpansion
+  - ReGrowth.BOTR.TemperateForestExpansion
+  - ReGrowth.BOTR.TundraExpansion
+  - ZH.ReGrowth.BOTR
+  - Lucifer.RealisticRooms
+  - twistedpacifist.ReasonableComponents
+  - ZH.hlx.ReinforcedMechanoids2
+  - Uuugggg.ReplaceStuff
+  - Owlchemist.WallUtilities
+  - VanillaExpanded.VFECore
+  - Garethp.ReplaceStuffCompatibility
+  - ZH.sindre0830.rimnauts2
+  - Shashlichnik.srtsexpanded
+  - RWZH.ChinesePack.srtsexpanded
+  - Uuugggg.ShareTheLoad
+  - Owlchemist.FridgeUtilities
+  - sarg.smartspeed
+  - weilbyte.snapout
+  - Scherub.StonecuttingExtended
+  - AludisNHG.AssembleChips
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - VanillaExpanded.VAECaves
+  - VanillaExpanded.VAEEndAndExt
+  - VanillaExpanded.VEE
+  - RWZH.ChinesePack.VanillaExpandedVEE
+  - VFME.CaravanPacks
+  - ZH.vanillaexpanded.backgrounds
+  - VanillaExpanded.VanillaBackstoriesExpanded
+  - VanillaExpanded.VanillaBackstoriesExpanded.zh
+  - VanillaExpanded.BaseGeneration
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VChemfuelE
+  - ZH.VanillaExpanded.VChemfuelE
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - ZH.OskarPotocki.VanillaExpanded.IdeologyPatches
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - shavius.vfemechanoids.zh
+  - VanillaExpanded.VGeneticsE
+  - ZH.VanillaExpanded.VGeneticsE
+  - VanillaExpanded.HelixienGas
+  - ZH.VanillaExpanded.HelixienGas
+  - VanillaExpanded.VNutrientE
+  - ZH.VanillaExpanded.VNutrientE
+  - vanillaexpanded.outposts
+  - MrHydralisk.VOEAdditionalOutposts
+  - ZH.vanillaexpanded.outposts
+  - ZH.MrHydralisk.VOEAdditionalOutposts
+  - MrHydralisk.VOEPowerGrid
+  - ZH.MrHydralisk.VOEPowerGrid
+  - shavius.vpe.zh
+  - vanillaracesexpanded.highmate
+  - vanillaracesexpanded.hussar
+  - vanillaracesexpanded.phytokin
+  - vanillaracesexpanded.sanguophage
+  - vanillaracesexpanded.saurid
+  - RED.vanillaracesexpanded.ZH
+  - VanillaExpanded.VAERoy
+  - RWZH.ChinesePack.VAE
+  - RWZH.ChinesePack.VCEF
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEProduction
+  - RWZH.ChinesePack.VFE
+  - RWZH.ChinesePack.VTEXE
+  - co.uk.epicguru.whatsthatmod
+  - Odeum.WMBP
+  - notfood.YASP
+  - ELIF.SRTS.Helicopters
+  - zh.SRTSHelicopters
+  - FrozenSnowFox.ComplexJobs
+  - FrozenSnowFox.GrowableAmbrosia
+  - gazzoose.changeresearchspeed
+  - Harkon.VEAddOn.VanillaExpandedExtraEmbrasures
+  - ZH.Harkon.VEAddOn.VanillaExpandedExtraEmbrasures
+  - lc.cmcalt
+  - Mehni.AllYourBase
+  - Krkr.RocketMan
+LoadingVars Pre 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LoadingVars Post 25 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MealRadius - Settings loaded
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84972__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84972__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84972__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84972__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84972__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84972__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84972__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84972__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84972__Poke: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84972__Poke
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84972__Poke_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84972__Poke_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84974__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84974__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84974__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84974__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84974__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84974__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84974__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84974__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84974__Poke: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84974__Poke
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84974__Poke_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84974__Poke_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84975__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84975__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84975__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84975__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84975__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84975__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84975__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84975__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope84975__Poke: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope84975__Poke
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope84975__Poke_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope84975__Poke_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope88036__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope88036__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope88036__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope88036__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope88036__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope88036__Smash
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope88036__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope88036__Smash_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_RG_Neutrolope88036__Poke: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_RG_Neutrolope88036__Poke
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_RG_Neutrolope88036__Poke_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_RG_Neutrolope88036__Poke_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ResolvingCrossRefs Pre 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ResolvingCrossRefs Post 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PostLoadInit Pre 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PostLoadInit Post 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ApplyFactor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Create Base Research Lookup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ResetResearchFactor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: PassiveCooler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: Stonecutting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: ComplexClothing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: Smithing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: Electricity 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: Batteries 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: NutrientPaste 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: SolarPanels 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: AirConditioning 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: PackagedSurvivalMeal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: GeothermalPower 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: ColoredLights 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: Machining 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: Gunsmithing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: BlowbackOperation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: GasOperation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: GunTurrets 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: MicroelectronicsBasics 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: CE_Gunpowder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: RG_MushroomCultivation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: FT_ENIAC 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: FT_Lathe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: FT_Concrete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: MF_BasicFurniture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Completed: ComplexFurniture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 7)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 52740.
+Total: 579.175400 ms (FindLiveObjects: 1.361700 ms CreateObjectMapping: 0.775400 ms MarkObjects: 576.972600 ms  DeleteObjects: 0.065500 ms)
+
+Unable to load font face for [Arial_small]. Make sure "Include Font Data" is enabled in the Font Import Settings. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unable to load font face for [Arial_small]. Make sure "Include Font Data" is enabled in the Font Import Settings. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unable to load font face for [Arial_small]. Make sure "Include Font Data" is enabled in the Font Import Settings. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
